@@ -1,0 +1,12 @@
+# Os CSV de medicao sao normalizados em LF no repositorio.
+# Sem isto, um clone em Windows e outro em Linux produzem checksums
+# diferentes para o mesmo dado -- o que atrapalha exatamente a verificacao
+# independente que este conjunto existe para permitir.
+*.csv  text eol=lf
+*.md   text eol=lf
+*.py   text eol=lf
+*.cff  text eol=lf
+*.txt  text eol=lf
+*.json text eol=lf
+LICENSE      text eol=lf
+LICENSE-CODE text eol=lf

@@ -1,0 +1,44 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Aplica-se aos dados e à documentação deste repositório.
+O código em codigo/ é licenciado separadamente sob MIT — ver LICENSE-CODE.
+
+Você tem permissão para:
+
+  COMPARTILHAR  — copiar e redistribuir o material em qualquer suporte ou
+                  formato, para qualquer finalidade, inclusive comercial.
+  ADAPTAR       — remixar, transformar e criar a partir do material, para
+                  qualquer finalidade, inclusive comercial.
+
+O licenciante não pode revogar estes direitos desde que você respeite os
+termos da licença.
+
+Sob a seguinte condição:
+
+  ATRIBUIÇÃO — Você deve dar o crédito apropriado, fornecer um link para a
+  licença e indicar se mudanças foram feitas. Você pode fazê-lo de qualquer
+  forma razoável, mas não de maneira que sugira que o licenciante endossa
+  você ou o seu uso.
+
+Sem restrições adicionais — você não pode aplicar termos jurídicos ou medidas
+de caráter tecnológico que restrinjam legalmente outros de fazer algo que a
+licença permita.
+
+Atribuição sugerida:
+
+  A. A. dos Santos, W. Knob de Souza, G. Fallavena Chaves e R. Lopes Rezer, "Mitigando e
+  Caracterizando Relativamente EMI Irradiadas em Salas Cirúrgicas de Alta
+  Complexidade," in Anais do XXX Congresso Brasileiro de Engenharia Biomédica
+  (CBEB 2026), 2026. Dados sob CC BY 4.0.
+
+Texto integral da licença:
+  https://creativecommons.org/licenses/by/4.0/legalcode.pt
+  https://creativecommons.org/licenses/by/4.0/legalcode  (versão em inglês)
+
+Resumo para leigos:
+  https://creativecommons.org/licenses/by/4.0/deed.pt
+
+AVISO DE GARANTIA: o material é disponibilizado no estado em que se encontra.
+Os autores declaram explicitamente, no README e em calibracao/LEIA-ME.md, que
+o instrumento não dispunha de calibração vigente e que os dados não constituem
+medida de conformidade normativa. Leia essas seções antes de reutilizar.

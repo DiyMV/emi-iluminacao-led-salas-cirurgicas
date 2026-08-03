@@ -1,0 +1,66 @@
+cff-version: 1.2.0
+title: >-
+  Varreduras espectrais de interferência eletromagnética por iluminação LED em
+  salas cirúrgicas de alta complexidade
+message: >-
+  Se estes dados forem úteis ao seu trabalho, cite o artigo indicado no campo
+  preferred-citation.
+type: dataset
+abstract: >-
+  Cinquenta e duas varreduras espectrais brutas (0-350 MHz e 225-575 MHz,
+  450 pontos cada) documentando a elevação do piso de ruído eletromagnético
+  produzida por drivers de iluminação LED em três salas cirúrgicas de alta
+  complexidade.
+  Inclui a campanha de diagnóstico com a falha clinicamente ativa, a campanha
+  de verificação em sete posições por sala com duas salas-controle sem
+  intervenção, e quatro varreduras que documentam um falso negativo por
+  escolha inadequada de faixa de análise. Nenhum dado de paciente. Sem
+  identificadores institucionais, patrimoniais ou de pessoas.
+identifiers:
+  - type: other
+    value: 'CBEB 2026 - submissao 717'
+    description: >-
+      Identificador da submissão do artigo ao XXX Congresso Brasileiro de
+      Engenharia Biomédica (CBEB 2026), área temática E — Engenharia Clínica e
+      Hospitalar. Estes dados subjacentes destinam-se à consulta e verificação
+      dos resultados por essa instância avaliadora.
+authors:
+  - family-names: dos Santos
+    given-names: Anderson Alves
+  - family-names: Knob de Souza
+    given-names: William
+  - family-names: Fallavena Chaves
+    given-names: Gabriel
+  - family-names: Lopes Rezer
+    given-names: Rodrigo
+keywords:
+  - compatibilidade eletromagnética
+  - interferência eletromagnética
+  - engenharia clínica
+  - sala cirúrgica de alta complexidade
+  - IVUS
+  - FFR
+  - iluminação LED
+  - CISPR 15
+  - analisador de espectro de baixo custo
+  - tinySA
+license: CC-BY-4.0
+preferred-citation:
+  type: conference-paper
+  title: >-
+    Mitigando e Caracterizando Relativamente EMI Irradiadas em Salas Cirúrgicas
+    de Alta Complexidade
+  authors:
+    - family-names: dos Santos
+      given-names: Anderson Alves
+    - family-names: Knob de Souza
+      given-names: William
+    - family-names: Fallavena Chaves
+      given-names: Gabriel
+    - family-names: Lopes Rezer
+      given-names: Rodrigo
+  collection-title: >-
+    Anais do XXX Congresso Brasileiro de Engenharia Biomédica (CBEB 2026)
+  year: 2026
+  notes: >-
+    Submetido sob o nº 717, área temática E — Engenharia Clínica e Hospitalar.

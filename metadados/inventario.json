@@ -1,0 +1,668 @@
+[
+  {
+    "arquivo": "dados_brutos/campanha_1_diagnostico/C1_sala03_luz_off_ref.csv",
+    "campanha": 1,
+    "data_aquisicao": "2026-02-12",
+    "sala": "03",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ],
+    "condicao": "luz_off"
+  },
+  {
+    "arquivo": "dados_brutos/campanha_1_diagnostico/C1_sala03_luz_on_rep1.csv",
+    "campanha": 1,
+    "data_aquisicao": "2026-02-12",
+    "sala": "03",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ],
+    "condicao": "luz_on"
+  },
+  {
+    "arquivo": "dados_brutos/campanha_1_diagnostico/C1_sala03_luz_on_rep2.csv",
+    "campanha": 1,
+    "data_aquisicao": "2026-02-12",
+    "sala": "03",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ],
+    "condicao": "luz_on"
+  },
+  {
+    "arquivo": "dados_brutos/campanha_1_diagnostico/C1_sala03_luz_on_rep3.csv",
+    "campanha": 1,
+    "data_aquisicao": "2026-02-12",
+    "sala": "03",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ],
+    "condicao": "luz_on"
+  },
+  {
+    "arquivo": "dados_brutos/campanha_1_diagnostico/C1_sala03_luz_on_rep4.csv",
+    "campanha": 1,
+    "data_aquisicao": "2026-02-12",
+    "sala": "03",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ],
+    "condicao": "luz_on"
+  },
+  {
+    "arquivo": "dados_brutos/campanha_1_diagnostico/C1_sala03_luz_on_rep5.csv",
+    "campanha": 1,
+    "data_aquisicao": "2026-02-12",
+    "sala": "03",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ],
+    "condicao": "luz_on"
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala01_P1_luz_off.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "01",
+    "posicao": "P1",
+    "condicao": "luz_off",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala01_P2_luz_off.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "01",
+    "posicao": "P2",
+    "condicao": "luz_off",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala01_P3_luz_off.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "01",
+    "posicao": "P3",
+    "condicao": "luz_off",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala01_P4_luz_off.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "01",
+    "posicao": "P4",
+    "condicao": "luz_off",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala01_P5_luz_off.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "01",
+    "posicao": "P5",
+    "condicao": "luz_off",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala01_P6_luz_off.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "01",
+    "posicao": "P6",
+    "condicao": "luz_off",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala01_P7_luz_off.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "01",
+    "posicao": "P7",
+    "condicao": "luz_off",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala01_P1_luz_on.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "01",
+    "posicao": "P1",
+    "condicao": "luz_on",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala01_P2_luz_on.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "01",
+    "posicao": "P2",
+    "condicao": "luz_on",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala01_P3_luz_on.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "01",
+    "posicao": "P3",
+    "condicao": "luz_on",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala01_P4_luz_on.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "01",
+    "posicao": "P4",
+    "condicao": "luz_on",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala01_P5_luz_on.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "01",
+    "posicao": "P5",
+    "condicao": "luz_on",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala01_P6_luz_on.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "01",
+    "posicao": "P6",
+    "condicao": "luz_on",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala01_P7_luz_on.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "01",
+    "posicao": "P7",
+    "condicao": "luz_on",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala02_P1_luz_off.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "02",
+    "posicao": "P1",
+    "condicao": "luz_off",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala02_P2_luz_off.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "02",
+    "posicao": "P2",
+    "condicao": "luz_off",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala02_P3_luz_off.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "02",
+    "posicao": "P3",
+    "condicao": "luz_off",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala02_P4_luz_off.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "02",
+    "posicao": "P4",
+    "condicao": "luz_off",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala02_P5_luz_off.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "02",
+    "posicao": "P5",
+    "condicao": "luz_off",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala02_P6_luz_off.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "02",
+    "posicao": "P6",
+    "condicao": "luz_off",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala02_P7_luz_off.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "02",
+    "posicao": "P7",
+    "condicao": "luz_off",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala02_P1_luz_on.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "02",
+    "posicao": "P1",
+    "condicao": "luz_on",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala02_P2_luz_on.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "02",
+    "posicao": "P2",
+    "condicao": "luz_on",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala02_P3_luz_on.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "02",
+    "posicao": "P3",
+    "condicao": "luz_on",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala02_P4_luz_on.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "02",
+    "posicao": "P4",
+    "condicao": "luz_on",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala02_P5_luz_on.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "02",
+    "posicao": "P5",
+    "condicao": "luz_on",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala02_P6_luz_on.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "02",
+    "posicao": "P6",
+    "condicao": "luz_on",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala02_P7_luz_on.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "02",
+    "posicao": "P7",
+    "condicao": "luz_on",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala03_P1_luz_off.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "03",
+    "posicao": "P1",
+    "condicao": "luz_off",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala03_P2_luz_off.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "03",
+    "posicao": "P2",
+    "condicao": "luz_off",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala03_P3_luz_off.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "03",
+    "posicao": "P3",
+    "condicao": "luz_off",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala03_P4_luz_off.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "03",
+    "posicao": "P4",
+    "condicao": "luz_off",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala03_P5_luz_off.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "03",
+    "posicao": "P5",
+    "condicao": "luz_off",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala03_P6_luz_off.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "03",
+    "posicao": "P6",
+    "condicao": "luz_off",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala03_P7_luz_off.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "03",
+    "posicao": "P7",
+    "condicao": "luz_off",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala03_P1_luz_on.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "03",
+    "posicao": "P1",
+    "condicao": "luz_on",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala03_P2_luz_on.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "03",
+    "posicao": "P2",
+    "condicao": "luz_on",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala03_P3_luz_on.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "03",
+    "posicao": "P3",
+    "condicao": "luz_on",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala03_P4_luz_on.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "03",
+    "posicao": "P4",
+    "condicao": "luz_on",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala03_P5_luz_on.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "03",
+    "posicao": "P5",
+    "condicao": "luz_on",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala03_P6_luz_on.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "03",
+    "posicao": "P6",
+    "condicao": "luz_on",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/campanha_2_verificacao/C2_sala03_P7_luz_on.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "03",
+    "posicao": "P7",
+    "condicao": "luz_on",
+    "pontos": 450,
+    "faixa_mhz": [
+      0,
+      350
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/demonstracao_faixa/DF_sala01_luz_off_225-575MHz.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "01",
+    "condicao": "luz_off",
+    "pontos": 450,
+    "faixa_mhz": [
+      225,
+      575
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/demonstracao_faixa/DF_sala01_luz_on_225-575MHz.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "01",
+    "condicao": "luz_on",
+    "pontos": 450,
+    "faixa_mhz": [
+      225,
+      575
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/demonstracao_faixa/DF_sala03_luz_off_225-575MHz.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "03",
+    "condicao": "luz_off",
+    "pontos": 450,
+    "faixa_mhz": [
+      225,
+      575
+    ]
+  },
+  {
+    "arquivo": "dados_brutos/demonstracao_faixa/DF_sala03_luz_on_225-575MHz.csv",
+    "campanha": 2,
+    "data_aquisicao": "2026-07-28",
+    "sala": "03",
+    "condicao": "luz_on",
+    "pontos": 450,
+    "faixa_mhz": [
+      225,
+      575
+    ]
+  }
+]
