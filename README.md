@@ -27,8 +27,6 @@ avaliadoras às quais o trabalho foi submetido:
 | XXX Congresso Brasileiro de Engenharia Biomédica (CBEB 2026) — área temática E, Engenharia Clínica e Hospitalar | submissão nº 717 |
 | Instância institucional do serviço de origem | submissão interna, sem identificador atribuído |
 
-A instituição não é nomeada aqui, por coerência com a
-
 O depósito é permanente e de acesso aberto. Os dados são publicados **sem
 tratamento** — sem fator de antena, perda de cabo ou correção de calibração —
 precisamente para que qualquer avaliador possa refazer o cálculo a partir da
