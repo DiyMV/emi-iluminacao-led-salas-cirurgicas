@@ -145,18 +145,18 @@ aprovação de ambientes reprovados.
 
 ### A fronteira de 80 MHz
 
-O ensaio de imunidade a RF **radiada** da IEC 60601-1-2, para o ambiente de
+O ensaio de imunidade a campos de RF **radiados** (IEC 61000-4-3) da IEC 60601-1-2, para o ambiente de
 estabelecimento de assistência à saúde, começa em **80 MHz** (3 V/m até
 2,7 GHz). Abaixo dessa fronteira, a qualificação do equipamento se dá por
-imunidade **conduzida** — de 150 kHz a 80 MHz, com o cabeamento como caminho de
+imunidade a **perturbações conduzidas induzidas por RF** (IEC 61000-4-6) — de 150 kHz a 80 MHz, com o cabeamento como caminho de
 acoplamento, e não o campo incidente.
 
 A faixa em que a interferência se concentrou atravessa essa fronteira:
 
 | Sub-faixa | Pontos espectrais | Elevação média | Como a norma qualifica |
 |---|---:|---:|---|
-| 30–80 MHz | 64 (42%) | +13,65 dB | imunidade conduzida, via cabos |
-| 80–150 MHz | 90 (58%) | +12,93 dB | imunidade radiada, 3 V/m |
+| 30–80 MHz | 64 (42%) | +13,65 dB | imunidade conduzida (IEC 61000-4-6) |
+| 80–150 MHz | 90 (58%) | +12,93 dB | imunidade radiada (IEC 61000-4-3), 3 V/m |
 
 Cinco dos dez pontos de maior elevação — 77,17 · 77,95 · 78,73 · 74,83 ·
 74,05 MHz — caem abaixo de 80 MHz, e o primeiro deles iguala o máximo global de
@@ -309,7 +309,7 @@ independente a repetibilidade e a rastreabilidade dos resultados. Ver
 Se estes dados forem úteis ao seu trabalho, cite o artigo:
 
 > A. A. dos Santos, W. Knob de Souza, G. Fallavena Chaves e R. Lopes Rezer, "Mitigando e
-> Caracterizando Relativamente EMI Irradiadas em Salas Cirúrgicas de Alta
+> Caracterizando Relativamente EMI Radiadas em Salas Cirúrgicas de Alta
 > Complexidade," in *Anais do XXX Congresso Brasileiro de Engenharia Biomédica
 > (CBEB 2026)*, 2026.
 
